@@ -1,0 +1,6 @@
+{
+"mongoURI":"mongodb+srv://ammar123:ammar123@devconnector.vnkgi.mongodb.net/<dbname>?retryWrites=true&w=majority",
+"jwtToken":"mysecrettoken",
+"githubClientid":"f4f0dfc0ca904c75b547",
+"githubSecretkey":"15cf758b439641e25e38d9c8f8c063cc659cb13a"
+}
